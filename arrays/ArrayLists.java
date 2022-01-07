@@ -29,11 +29,17 @@ public class ArrayLists {
 		
 //		System.out.println(MatrixFilms.get(1));
 		
-		System.out.println(MatrixFilms.set(1, "Too FAST Too Matrix"));
+//		System.out.println(MatrixFilms.set(1, "Too FAST Too Matrix"));
+//		
+//		for (String i: MatrixFilms ) {
+//			System.out.println(i);
+//		}
+		
+		System.out.println(MatrixFilms.remove(1));
 		
 		for (String i: MatrixFilms ) {
 			System.out.println(i);
-		}
+	}
 		
 	}
 
