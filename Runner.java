@@ -1,7 +1,7 @@
 package com.qa;
 
 import com.qa.arrays.ArrayExercise;
-import com.qa.interation.*;
+import com.qa.iteration.*;
 
 // this line is a comment
 
